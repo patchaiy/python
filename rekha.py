@@ -1,4 +1,4 @@
-values1=int(input())
-values2=int(input())
-result=values1**values2
+v1=int(input())
+v2=int(input())
+result=v1**v2
 print(result)
